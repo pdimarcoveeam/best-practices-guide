@@ -1,8 +1,10 @@
 # Assessment
 
-Before starting a project, it is very important to understand customers’ needs, vision and the IT environment. While the first two can be the outcome of an initial project meeting, the IT environment can be analyzed with Veeam ONE, which is a part of the Veeam Availability Suite.
+Before starting a project, it is very important to understand customers’ needs, vision and IT environment. While the first two can be the outcome of an initial project meeting, the IT environment can be analyzed with Veeam ONE, which is a part of the Veeam Availability Suite.
 
-The following information is very important and can help to streamline the project and proactively prevent situations that impact the environment:
+We wanted to outline the importance of starting a POC in the best possible conditions, meaning we need to have absolute certainty of the environment healthiness.
+
+For this purpose, Veeam One is a convenient product to gather the following information and help to streamline the project and proactively prevent situations that negatively impact the environment.
 
 ## Veeam ONE Monitor
 ### Alerts tab
@@ -58,4 +60,4 @@ This report provides the most complete and up-to-date configuration information 
 
 There are many additional interesting reports in the Veeam Availability Suite.
 
-Check out the [VMware Optimization](https://helpcenter.veeam.com/docs/one/reporter/vmware_optimization.html?ver=95) or [Hyper-V Optimization](https://helpcenter.veeam.com/docs/one/reporter/hyperv_optimization.html?ver=95) sections of Veeam ONE Reporter. A good example is the Garbage Files Report that can identify possible wasted space on datastores. In some cases, it helped to free up 10 TB+ of space on the tier 1 storage.
+Check out the [VMware Optimization](https://helpcenter.veeam.com/docs/one/reporter/vmware_optimization.html?ver=95u4) or [Hyper-V Optimization](https://helpcenter.veeam.com/docs/one/reporter/hyperv_optimization.html?ver=95u4) sections of Veeam ONE Reporter. A good example is the Garbage Files Report that can identify possible wasted space on datastores. In some cases, it helped to free up 10 TB+ of space on the tier 1 storage.
